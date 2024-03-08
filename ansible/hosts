@@ -1,0 +1,9 @@
+[master]
+10.50.29.69 ansible_user=centos
+
+[worker1]
+10.50.29.101 ansible_user=centos
+
+[worker2]
+10.50.29.102 ansible_user=centos
+
